@@ -1,7 +1,7 @@
 let input = document.querySelector('#input')
 let button = document.querySelector('button')
-input.style.cssText = 'border-color:green;width:300px;height:30px;margin:30px 250px'
-button.style.cssText = 'background-color:green;color:white;width:200px;height:30px;position:absolute;margin:35px -230px'
+input.style.cssText = 'border-color:green;width:300px;height:30px;margin:15px 250px'
+button.style.cssText = 'background-color:green;color:white;width:200px;height:30px;position:absolute;margin:20px -230px'
 
 let crazeBorder = document.querySelector('.crazy')
 crazeBorder.style.cssText ='background-color:white;display:flex;width:600px;height:100px;margin:0px 220px;flex-flow:wrap'
