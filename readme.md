@@ -2,4 +2,4 @@
 
 ##### This code can run large data and search the largest prime number present
 
-<a href=''>![Prime number](https://github.com/Topmark1/Number-Type-Generator/blob/master/Capture.PNG)</a>
+<a href='https://topmark1.github.io/Number-Type-Generator/'>![Prime number](https://github.com/Topmark1/Number-Type-Generator/blob/master/Capture.PNG)</a>
